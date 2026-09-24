@@ -1,16 +1,43 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Ludmila Peretti
 
-<!--
-**ludmilaaperetti/ludmilaaperetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Estudiante de 3.º año de Ingeniería en Sistemas de Información
 
-Here are some ideas to get you started:
+Actualmente estoy cursando la carrera y aprendiendo desarrollo de software a través de proyectos académicos y personales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+
+### Lenguajes
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,cpp" />
+</p>
+
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+### Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs" />
+</p>
+
+### Bases de datos
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+</p>
+
+### Herramientas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea" />
+</p>
+
+### Diseño y organización
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=notion,figma" />
+</p>
