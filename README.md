@@ -43,7 +43,7 @@ Actualmente estoy cursando la carrera y aprendiendo desarrollo de software a tra
     </td>
     <td valign="middle" align="center" width="45%">
       <!-- Reemplazá la URL de abajo por la imagen o SVG que quieras mostrar -->
-      <img src="URL_DE_TU_IMAGEN_AQUI" alt="Ilustración Tech" width="100%" />
+      <img src=https://i.pinimg.com/736x/87/9a/8f/879a8fc3376b68e57ae1003a64c37abb.jpg />
     </td>
   </tr>
 </table>
