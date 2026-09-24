@@ -1,10 +1,10 @@
 # ¡Hola! Soy Ludmila Peretti 🤍
 
-### 🎓 Estudiante de 3.º año de Ingeniería en Sistemas de Información
+### Estudiante de 3.º año de Ingeniería en Sistemas de Información
 
 Actualmente estoy cursando la carrera y aprendiendo desarrollo de software a través de proyectos académicos y personales.
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 <table>
   <tr>
@@ -42,15 +42,14 @@ Actualmente estoy cursando la carrera y aprendiendo desarrollo de software a tra
 
     </td>
     <td valign="middle" align="center" width="45%">
-      <!-- Reemplazá la URL de abajo por la imagen o SVG que quieras mostrar -->
-      <img src=https://i.pinimg.com/736x/87/9a/8f/879a8fc3376b68e57ae1003a64c37abb.jpg />
+      <img src="https://i.pinimg.com/736x/fc/c8/ae/fcc8ae1f284e648816fded1150d0ed4c.jpg" alt="Gatito negro" width="85%" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
 
 <!-- Widget de Spotify -->
 <p align="right">
-  <a href="https://spotify-github-profile.vincelwt.com">
+  <a href="https://spotify-github-readme.com">
     <img src="https://spotify-github-readme.com/api/spotify-playing" alt="Spotify Currently Playing" />
   </a>
 </p>
