@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Ludmila Peretti
+# ¡Hola! Soy Ludmila Peretti
 
 ### 🎓 Estudiante de 3.º año de Ingeniería en Sistemas de Información
 
